@@ -60,6 +60,9 @@ When we took into account the population of each county, we found that the Bay A
 ![png](255_Final_Code_Compiled_42024_files/255_Final_Code_Compiled_42024_29_0.png)
 
 
+### Limitations
+While these findings paint a general picture of regional hotspots for EV adoption in California, we faced limitations that may affect the generalizability of the findings. First, the Calenviroscreen 4.0 data, while complete on the county level, left about 30% of the zip codes in the state without a CES score. The EV charging station data also contained many incomplete addresses which were subsequently dropped from the analysis, as they could not be geolocated. Additionally, our analysis only considered EVs sold in the state of California, not the total numbers of EVs registered in the state due to data access limitations, so our analysis of hotspots may miss regions where EV adoption was already high but did not see a large number of sales in 2023. Lastly, as discussed in Part 1 of the Key Findings section, we are unable to establish causality or statistical significance at this stage of analysis, but further research could attempt to do so. 
+
 ### Sources
 1. California Energy Commission (2024). California Energy Commission Zero Emission Vehicle and Infrastructure Statistics. Data last updated December 31, 2023. Retrieved April 3, 2024 from http://www.energy.ca.gov/zevstats.
 2. California Office of Environmental Health Hazard Assessment (2024). CalEnviroScreen 4.0. Data last updated May 1, 2023. Retreieved April 3, 2024 from https://oehha.ca.gov/calenviroscreen/report/calenviroscreen-40.
