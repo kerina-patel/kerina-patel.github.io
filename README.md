@@ -1,4 +1,4 @@
-# EV Chargers and Sales in California
+# EV Adoption in California
 ## Kerina Patel and Dana Morgan
 
 ### Introduction
